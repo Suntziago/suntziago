@@ -5,6 +5,19 @@
 - 📚 Buscando estudar e me desenvolver
 - 📧 Contate-me: contato.caioedusantiago@gmail.com
 
-Meus status⭐<br>
-<img align="left" width="47%" alt="Meus Status" src="https://github-readme-stats.vercel.app/api?username=suntziago&show_icons=true">
-<img  align="left" width="47%" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntziago&layout=compact">
+Linguagens de programação💻:<br>
+<img alt="Caio_Java" heitgh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
+
+Meus status⭐:
+
+  <img  align="left" width="47%" alt="Meus Status" src="https://github-readme-stats.vercel.app/api?username=suntziago&theme=nightowl&show_icons=true&hide_border=false&count_private=true">
+  <img  align="left" width="47%" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suntziago&theme=nightowl&show_icons=true&hide_border=false&layout=compact"><br>
+
+
+
+
+
+
+
+
+
