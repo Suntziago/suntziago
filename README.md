@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Santiago👋
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas (1/5)
-- 👨‍💻 Estudando Java 
+- 👨‍💻 Estudando Java e Javascript
 - 📚 Buscando estudar e me desenvolver
 - 📧 Contate-me: contato.caioedusantiago@gmail.com
 
