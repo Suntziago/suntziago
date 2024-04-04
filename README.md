@@ -7,6 +7,8 @@
 
 Linguagens de programação💻:<br>
 <img alt="Caio_Java" heitgh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
+<img alt="Caio_JavaScript" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 
 Meus status⭐:
 
