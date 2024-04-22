@@ -4,6 +4,7 @@
 - 👨‍💻 Estudando Java e Javascript
 - 📚 Buscando estudar e me desenvolver
 - 📧 Contate-me: contato.caioedusantiago@gmail.com
+- Estudando cybersec
 
 Linguagens de programação💻:<br>
 <img alt="Caio_Java" heitgh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
